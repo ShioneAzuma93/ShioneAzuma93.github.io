@@ -7,7 +7,7 @@
     padding:20px 30px;
     color:white;
 }
-h1 {
+.midasi h1 {
      color:#000;
      background-color:#fff;
 }
@@ -22,4 +22,27 @@ body {
 }
 .menu1 img {
     height: 200px;
+}
+
+.komi h1 {
+    background-color: #fff;
+    color: black;
+    font-size: 84px;
+    font-family: "Canela";
+}
+
+.page2 {
+    background-color:#EEDDF0;
+}
+
+.page3 {
+    background-color:#F5D8D7;
+}
+
+.page4 {
+    background-color:#C1D8AC;
+}
+
+.page5 {
+    background-color:#CBE4EC;
 }
