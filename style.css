@@ -1,3 +1,12 @@
+.header {
+    background-color: #18385D;
+    height: 70px;
+}
+.header p {
+    list-style: none;
+    padding:20px 30px;
+    color:white;
+}
 h1 {
      color:#000;
      background-color:#fff;
@@ -5,16 +14,12 @@ h1 {
 body {
     background-color: #F8EED1;
 }
-.header {
-    background-color: #18385D;
-    height: 70px;
-}
-li {
-    list-style: none;
-    padding:20px 30px;
-    color:white;
-}
-ul {
+.menu1 {
     display: flex;
 }
-
+.menu2 {
+    display: flex;
+}
+.menu1 img {
+    height: 200px;
+}
