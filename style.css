@@ -1,11 +1,14 @@
 .header {
+    margin-top: 0pt;
     background-color: #18385D;
-    height: 70px;
+    height: 80px;
 }
 .header p {
+    font-size: 20px;
     list-style: none;
-    padding:20px 30px;
+    padding:10px 30px 0px 30px;
     color:white;
+    line-height:40px; 
 }
 
 .page2 {
@@ -28,10 +31,35 @@
     padding: 100px;
 }
 
-.midasi h1 {
-     color:#000;
-     background-color:#fff;
+.midasi {
+    text-align: center;
+    color:#000;
+    padding:30px 0px;
+    background-color:#fff;
+    font-size: 90px;
+    height: 200px;
+    line-height: 200px;
 }
+
+
+.marin {
+    font-size: 30px;
+    padding: 0px 60px 30px 60px;
+}
+.komi {
+    text-align: center;
+    background-color:#fff;
+    color: black;
+    font-size: 50px;
+    font-family: "Canela";
+}
+
+.page2 h2 {
+    border-bottom: 2px dotted #000;
+}
+
+
+
 body {
     background-color:#F8EED1;
 }
@@ -43,12 +71,14 @@ body {
 }
 .menu1 img {
     height: 200px;
+    padding-top: 60px;
 }
+ .page3 img {
+     float:left;
+     height:400px;
+     padding: 20px;
+ }
 
-.komi h1 {
-    background-color:#fff;
-    color: black;
-    font-size: 84px;
-    font-family: "Canela";
-}
-
+ ul {
+     padding-top: 30px 20px;
+ }
