@@ -7,12 +7,33 @@
     padding:20px 30px;
     color:white;
 }
+
+.page2 {
+    background-color:#EEDDF0;
+    padding: 100px;
+}
+
+.page3 {
+    background-color:#F5D8D7;
+    padding: 100px;
+}
+
+.page4 {
+    background-color:#C1D8AC;
+    padding: 100px;
+}
+
+.page5 {
+    background-color:#CBE4EC;
+    padding: 100px;
+}
+
 .midasi h1 {
      color:#000;
      background-color:#fff;
 }
 body {
-    background-color: #F8EED1;
+    background-color:#F8EED1;
 }
 .menu1 {
     display: flex;
@@ -25,24 +46,9 @@ body {
 }
 
 .komi h1 {
-    background-color: #fff;
+    background-color:#fff;
     color: black;
     font-size: 84px;
     font-family: "Canela";
 }
 
-.page2 {
-    background-color:#EEDDF0;
-}
-
-.page3 {
-    background-color:#F5D8D7;
-}
-
-.page4 {
-    background-color:#C1D8AC;
-}
-
-.page5 {
-    background-color:#CBE4EC;
-}
