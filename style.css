@@ -1,5 +1,6 @@
 body {
-    font-family: 'arial';
+    width: 100%;
+    font-family: "游ゴシック体" , YuGothic , "游ゴシック" , "Yu Gothic" , "メイリオ" , sans-serif;
 }
 
 .header {
@@ -26,6 +27,20 @@ body {
     font-size: 15px;
 }
 
+.tubuyaki p {
+    font-size: 13px;
+}
+
+.tubuyaki iframe {
+    width: 784px;
+    height: 441px;
+}
+
+.tubuyaki {
+    text-align: center;
+    padding-bottom: 80px;
+}
+
 a {
     color:#fff;
     text-decoration:none;
@@ -44,6 +59,10 @@ a {
 .page4 {
     background-color:#C1D8AC;
     padding: 100px;
+}
+
+.page4 h2 {
+    text-align: center;
 }
 
 .page5 {
@@ -70,8 +89,10 @@ a {
 
 .marin {
     font-size: 30px;
-    padding: 0px 60px 30px 60px;
+    padding: 0px 60px 25px 60px;
 }
+
+
 .komi {
     text-align: center;
     background-color:#fff;
